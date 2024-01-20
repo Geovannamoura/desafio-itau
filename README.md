@@ -15,8 +15,8 @@
    b. A cada chute, o valor da variável subtraído 1
    
 
-   3. Mostrador de chutes errados: cada letra que for inserida e não pertence a palavra secreta deve ser exibida nesse painel.
+4. Mostrador de chutes errados: cada letra que for inserida e não pertence a palavra secreta deve ser exibida nesse painel.
       
   
-   5. O jogo termina quando o jogador acerta a palavra, ou quando as chances terminam.
+5. O jogo termina quando o jogador acerta a palavra, ou quando as chances terminam.
 
