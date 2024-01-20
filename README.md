@@ -10,7 +10,7 @@
 
    a. O valor inicial é o dobro do tamanho da palavra secreta.
 
-   \t Ex: Para a palavra Banana, o valor inical é 12.
+      - Ex: Para a palavra Banana, o valor inical é 12.
 
    b. A cada chute, o valor da variável subtraído 1
    
